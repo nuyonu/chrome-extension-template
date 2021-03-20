@@ -1,0 +1,17 @@
+.btn {
+    padding: 8px 16px;
+    min-width: 64px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    white-space:nowrap;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.btn-primary {
+    background-color: #8c03fc;
+    color: white;
+}
